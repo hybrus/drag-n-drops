@@ -4,7 +4,7 @@ export const Navbar = () => {
     return (
         <Nbar bg="primary" variant='dark' expand="lg">
             <Container>
-                <Nbar.Brand>Narrasoft Technical Test - Wrollen Austria</Nbar.Brand>
+                <Nbar.Brand>Drag and Drop Items</Nbar.Brand>
             </Container>
         </Nbar>
     )
