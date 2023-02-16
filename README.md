@@ -1,5 +1,5 @@
 
-###Design
+### Design
 The "drag-n-drops" application is a Next.js application that allows the user to drag and drop various elements, including images, graphs, and text boxes, into a layout. The user interface is designed using HTML and CSS, and the drag-and-drop functionality is implemented using JavaScript and the HTML5 Drag and Drop API.
 
 The main components of the user interface include:
